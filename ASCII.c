@@ -7,7 +7,7 @@ int main(){
 
     for (i = 0; name[i]!='\0'; i++)
     {
-        printf("%c=%d\t",name[i],name[i]);
+        // printf("%c=%d\t",name[i],name[i]);
         arr[i] = name[i];
     }
     printf("\n");
