@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-    char name[] = "Sunny";
+    char name[] = "priyanshu raj";
     int arr[10],i;
 
     for (i = 0; name[i]!='\0'; i++)
@@ -11,7 +11,7 @@ int main(){
         arr[i] = name[i];
     }
     printf("\n");
-    for (i = 0; i<5; i++)
+    for (i = 0; i<13; i++)
     {
          printf("%d\t",arr[i]);
     }
